@@ -1,0 +1,29 @@
+# Ignore object files
+*.o
+*.obj
+
+# Ignore binary files
+bin/
+obj/
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore editor backup files
+*~
+
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore logs
+*.log
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
